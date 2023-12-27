@@ -1,0 +1,82 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skill/html.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skill/css.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skill/js.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skill/php.png",
+    "category": "Backend"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skill/bootstrap.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skill/tailwind.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skill/python.png",
+    "category": "Programming"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skill/c++.png",
+    "category": "Programming"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skill/java.png",
+    "category": "Programming"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skill/react.png",
+    "category": "Frontend"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skill/node.png",
+    "category": "Backend"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skill/sql.png",
+    "category": "Database"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skill/mongodb.png",
+    "category": "Database"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skill/github.png",
+    "category": "DevOps"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skill/canva.png",
+    "category": "Design"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skill/figma.png",
+    "category": "Design"
+  }
+]

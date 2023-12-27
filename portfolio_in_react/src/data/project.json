@@ -1,0 +1,25 @@
+[
+    {
+      "title": "WritersHouse",
+      "imageSrc": "projects/WriterHouse.jpeg",
+      "description": "WriterHouse is story publishing platform on the internet platform.",
+      "skills": ["PHP", "Bootstrap"],
+      "source": "https://github.com/Ajay7616/Writers_House"
+    },
+    {
+      "title": "Sign Language Detector",
+      "imageSrc": "projects/sign.png",
+      "description": "This Sign Language Project is used to detect handsign using Machine Learning.",
+      "skills": ["Python", "Numpy", "CVZone", "Keras"],
+      "source": "https://github.com/Ajay7616/Sign-Language"
+    },
+    {
+      "title": "To Do List",
+      "imageSrc": "projects/todolist.png",
+      "description": "To Do List is a Mern Stack Project for user to note down what task they do.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ajay7616/React/tree/main/ToDoList%20project"
+    }
+  ]
+  
